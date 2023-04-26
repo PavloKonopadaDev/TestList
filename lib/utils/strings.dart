@@ -1,0 +1,10 @@
+const String errorString = 'Error';
+const String floatingActionAddItem = 'Add Item';
+const String floatingActionRemoveItem = 'Remove Item';
+const String cancelButon = "CANCEL";
+const String okButton = "OK";
+const String titleOfDialog = "Input name of title";
+const String hintTextForDialog = "Enter name of title";
+const String addMistakeMssg = 'Failed to add item.';
+const String removeMistakeMssg = 'Failed to remove item.';
+const String getMistakeMssg = 'Failed to get items.';
